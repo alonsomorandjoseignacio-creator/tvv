@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:0,TV LOCAL CTT
+#EXTVLCOPT:network-caching=1000
+https://lon.rtsp.me/Ye9KZ7t5B9j5uBz9r77Ulw/1759615532/hls/4SSKkh7t.m3u8
+
 #EXTINF:0,La 1
 #EXTVLCOPT:network-caching=1000
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
