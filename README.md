@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:0,La 1
+#EXTVLCOPT:network-caching=1000
+https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
+#EXTINF:72,La 2
+#EXTVLCOPT:network-caching=1000
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+#EXTINF:0,Canal de la Ciudad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:60,América
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:0,TV Pública
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+#EXTINF:24,El Trece
+#EXTVLCOPT:network-caching=1000
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+#EXTINF:0,Telemax
+#EXTVLCOPT:network-caching=1000
+http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:0,A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
+#EXTINF:0,Crónica HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+#EXTINF:0,Canal 24 Horas RTVE
+#EXTVLCOPT:network-caching=1000
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0,Canal 10 Mar del Plata
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:0,Canal 2 Misiones
+#EXTVLCOPT:network-caching=1000
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 7 Neuquén
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 9 Televida Mendoza
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:0,RT en Español
+#EXTVLCOPT:network-caching=1000
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0,DW en Español
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:0,Telesur
+#EXTVLCOPT:network-caching=1000
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:0,Teledeporte
+#EXTVLCOPT:network-caching=1000
+https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
+#EXTINF:0,Retro Magico
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
+#EXTINF:0,Clan
+#EXTVLCOPT:network-caching=1000
+https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+#EXTINF:0,Pequeradio TV
+#EXTVLCOPT:network-caching=1000
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:0,Tastemade en Español
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
+#EXTINF:0,AN24
+#EXTVLCOPT:network-caching=1000
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+#EXTINF:0,MusicTop
+#EXTVLCOPT:network-caching=1000
+http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:0,Tierramia TV
+#EXTVLCOPT:network-caching=1000
+http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+#EXTINF:0,Vorterix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
+#EXTINF:0,Argentinisima Satelital
+#EXTVLCOPT:network-caching=1000
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:0,Crossing TV
+#EXTVLCOPT:network-caching=1000
+https://stmv6.voxtvhd.com.br/crossingtv/crossingtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Net TV
+#EXTVLCOPT:network-caching=1000
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0,Señal Urbana
+#EXTVLCOPT:network-caching=1000
+https://video.fiberfly.com.ar/stream/hls1/110106.m3u8?PlaylistM3UCL
+#EXTINF:0,TV Solidaria Argentina
+#EXTVLCOPT:network-caching=1000
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8?PlaylistM3UCL
+#EXTINF:0,5TV
+#EXTVLCOPT:network-caching=1000
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:0,Canal 4 Jujuy
+#EXTVLCOPT:network-caching=1000
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live4/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 4 Posadas
+#EXTVLCOPT:network-caching=1000
+https://iptv.ixfo.com.ar:30443/live-HD/C4POS/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 12 Puerto Madryn
+#EXTVLCOPT:network-caching=1000
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:0,Canal 13 La Rioja
+#EXTVLCOPT:network-caching=1000
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:0,Canal 21 Misiones
+#EXTVLCOPT:network-caching=1000
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Canal 22 Web
+#EXTVLCOPT:network-caching=1000
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:0,Canal 79 Mar del Plata
+#EXTVLCOPT:network-caching=1000
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+#EXTINF:0,Canal Provincial
+#EXTVLCOPT:network-caching=1000
+https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
+#EXTINF:0,CPE TV
+#EXTVLCOPT:network-caching=1000
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+#EXTINF:0,Latina TV Mendoza
+#EXTVLCOPT:network-caching=1000
+https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8?PlaylistM3UCL
+#EXTINF:0,Telpin TV
+#EXTVLCOPT:network-caching=1000
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:0,Cámaras de Villa Gesell (Av. 3 y 104)
+#EXTVLCOPT:network-caching=1000
+http://cam104y3.gesell.com.ar/playlist.m3u8
+#EXTINF:0,Cámaras de Villa Gesell (La Pinocha)
+#EXTVLCOPT:network-caching=1000
+http://camlapinocha.gesell.com.ar/playlist.m3u8
+#EXTINF:0,FM 99.9 Mar del Plata
+#EXTVLCOPT:network-caching=1000
+https://fm999.info/test/index.m3u8
+#EXTINF:0,Radio Disney Argentina 94.3
+#EXTVLCOPT:network-caching=1000
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
+#EXTINF:0,FM De la Azotea 88.7 Mar del Plata
+#EXTVLCOPT:network-caching=1000
+http://149.202.235.235:8164/;stream/1
+
